@@ -1,1987 +1,4 @@
 
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Bu[0Kt
-tons/css/buttons.jqueryui.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Bu[0Kt
-tons/css/buttons.semanticui.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Bu[0Kt
-tons/js/buttons.bootstrap.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Bu[0Kt
-tons/js/buttons.bootstrap4.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Bu[0Kt
-tons/js/buttons.colVis.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Bu[0Kt
-tons/js/buttons.flash.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Bu[0Kt
-tons/js/buttons.foundation.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Bu[0Kt
-tons/js/buttons.html5.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Bu[0Kt
-tons/js/buttons.jqueryui.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Bu[0Kt
-tons/js/buttons.print.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Bu[0Kt
-tons/js/buttons.semanticui.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Bu[0Kt
-tons/js/dataTables.buttons.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Bu[0Kt
-tons/js/jszip.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Bu[0Kt
-tons/js/pdfmake.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Bu[0Kt
-tons/js/vfs_fonts.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Bu[0Kt
-tons/swf/flashExport.swf[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Co[0Kl
-Reorder/css/colReorder.bootstrap.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Co[0Kl
-Reorder/css/colReorder.bootstrap4.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Co[0Kl
-Reorder/css/colReorder.dataTables.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Co[0Kl
-Reorder/css/colReorder.foundation.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Co[0Kl
-Reorder/css/colReorder.jqueryui.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Co[0Kl
-Reorder/css/colReorder.semanticui.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Co[0Kl
-Reorder/js/dataTables.colReorder.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fi[0Kx
-edColumns/css/fixedColumns.bootstrap.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fi[0Kx
-edColumns/css/fixedColumns.bootstrap4.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fi[0Kx
-edColumns/css/fixedColumns.dataTables.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fi[0Kx
-edColumns/css/fixedColumns.foundation.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fi[0Kx
-edColumns/css/fixedColumns.jqueryui.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fi[0Kx
-edColumns/css/fixedColumns.semanticui.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fi[0Kx
-edColumns/js/dataTables.fixedColumns.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fi[0Kx
-edHeader/css/fixedHeader.bootstrap.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fi[0Kx
-edHeader/css/fixedHeader.bootstrap4.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fi[0Kx
-edHeader/css/fixedHeader.dataTables.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fi[0Kx
-edHeader/css/fixedHeader.foundation.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fi[0Kx
-edHeader/css/fixedHeader.jqueryui.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fi[0Kx
-edHeader/css/fixedHeader.semanticui.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fi[0Kx
-edHeader/js/dataTables.fixedHeader.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ke[0Ky
-Table/css/keyTable.bootstrap.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ke[0Ky
-Table/css/keyTable.bootstrap4.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ke[0Ky
-Table/css/keyTable.dataTables.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ke[0Ky
-Table/css/keyTable.foundation.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ke[0Ky
-Table/css/keyTable.jqueryui.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ke[0Ky
-Table/css/keyTable.semanticui.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ke[0Ky
-Table/js/dataTables.keyTable.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks
-ponsive/css/responsive.bootstrap.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks
-ponsive/css/responsive.bootstrap4.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks
-ponsive/css/responsive.dataTables.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks
-ponsive/css/responsive.foundation.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks
-ponsive/css/responsive.jqueryui.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks
-ponsive/css/responsive.semanticui.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks
-ponsive/js/dataTables.responsive.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks
-ponsive/js/responsive.bootstrap.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks
-ponsive/js/responsive.bootstrap4.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks
-ponsive/js/responsive.foundation.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks
-ponsive/js/responsive.jqueryui.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks
-ponsive/js/responsive.semanticui.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
-Group/css/rowGroup.bootstrap.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
-Group/css/rowGroup.bootstrap4.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
-Group/css/rowGroup.dataTables.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
-Group/css/rowGroup.foundation.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
-Group/css/rowGroup.jqueryui.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
-Group/css/rowGroup.semanticui.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
-Group/js/dataTables.rowGroup.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
-Reorder/css/rowReorder.bootstrap.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
-Reorder/css/rowReorder.bootstrap4.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
-Reorder/css/rowReorder.dataTables.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
-Reorder/css/rowReorder.foundation.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
-Reorder/css/rowReorder.jqueryui.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
-Reorder/css/rowReorder.semanticui.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
-Reorder/js/dataTables.rowReorder.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Sc[0Kr
-oller/css/scroller.bootstrap.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Sc[0Kr
-oller/css/scroller.bootstrap4.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Sc[0Kr
-oller/css/scroller.dataTables.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Sc[0Kr
-oller/css/scroller.foundation.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Sc[0Kr
-oller/css/scroller.jqueryui.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Sc[0Kr
-oller/css/scroller.semanticui.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Sc[0Kr
-oller/js/dataTables.scroller.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Se[0Kl
-ect/css/select.bootstrap.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Se[0Kl
-ect/css/select.bootstrap4.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Se[0Kl
-ect/css/select.dataTables.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Se[0Kl
-ect/css/select.foundation.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Se[0Kl
-ect/css/select.jqueryui.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Se[0Kl
-ect/css/select.semanticui.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Se[0Kl
-ect/js/dataTables.select.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-plugins/natur[0Ka
-l/natural.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searc[0Kh
-Highlight/dataTables.searchHighlight.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searc[0Kh
-Highlight/dataTables.searchHighlight.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searc[0Kh
-Highlight/jquery.highlight.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTable[0Ks
-.bootstrap.extra.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTable[0Ks
-.bootstrap.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTable[0Ks
-.bootstrap4.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTable[0Ks
-.foundation.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTable[0Ks
-.jqueryui.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTable[0Ks
-.material.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTable[0Ks
-.semanticui.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTable[0Ks
-.uikit.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/css/jquery.da[0Kt
-aTables.extra.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/css/jquery.da[0Kt
-aTables.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables[0K.
-bootstrap.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables[0K.
-bootstrap4.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables[0K.
-foundation.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables[0K.
-jqueryui.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables[0K.
-material.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables[0K.
-semanticui.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables[0K.
-uikit.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js/jquery.dat[0Ka
-Tables.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/license.txt[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/jquery/LICENSE.txt[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/jquery/jquery.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/nouislider/jquery.nouisl[0Ki
-der.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/nouislider/jquery.nouisl[0Ki
-der.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/selectize/selectize.boot[0Ks
-trap3.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-binding-0.4/lib/selectize/selectize.min.[0Kj
-s[0K
- create mode 100644 20192/Nal/Pre/libraryjs/datatables-css-0.0.0/datatables-crosstalk.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/dt-core-1.10.16/css/jquery.dataTables.extra.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/dt-core-1.10.16/css/jquery.dataTables.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/dt-core-1.10.16/js/jquery.dataTables.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/dt-ext-buttons-1.10.16/css/buttons.dataTables.min.c[0Ks
-s[0K
- create mode 100644 20192/Nal/Pre/libraryjs/dt-ext-buttons-1.10.16/js/buttons.colVis.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/dt-ext-buttons-1.10.16/js/buttons.flash.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/dt-ext-buttons-1.10.16/js/buttons.html5.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/dt-ext-buttons-1.10.16/js/buttons.print.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/dt-ext-buttons-1.10.16/js/dataTables.buttons.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/dt-ext-keytable-1.10.16/css/keyTable.dataTables.min[0K.
-css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/dt-ext-keytable-1.10.16/js/dataTables.keyTable.min.[0Kj
-s[0K
- create mode 100644 20192/Nal/Pre/libraryjs/dt-ext-responsive-1.10.16/css/responsive.dataTables[0K.
-min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/dt-ext-responsive-1.10.16/js/dataTables.responsive.[0Km
-in.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTables.search[0KH
-ighlight.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTables.search[0KH
-ighlight.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/dt-plugin-searchhighlight-1.10.16/jquery.highlight.[0Kj
-s[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/highchart.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/highchart.yaml[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/highchart2.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/highchart2.yaml[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/highchartct.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/highchartct.yaml[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/highchartzero.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/highchartzero.yaml[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/css/mo[0Kt
-ion.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom[0K/
-reset.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom[0K/
-symbols-extra.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom[0K/
-text-symbols.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highch[0Ka
-rts-3d.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highch[0Ka
-rts-more.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highch[0Ka
-rts.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/maps/m[0Ko
-dules/map.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/accessibility.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/annotations.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/boost-canvas.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/boost.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/broken-axis.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/bullet.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/data.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/drag-panes.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/drilldown.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/export-data.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/exporting.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/funnel.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/gantt.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/grid-axis.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/heatmap.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/histogram-bellcurve.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/item-series.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/no-data-to-display.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/offline-exporting.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/oldie.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/overlapping-datalabels.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/parallel-coordinates.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/pareto.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/sankey.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/series-label.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/solid-gauge.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/static-scale.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/stock.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/streamgraph.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/sunburst.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/treemap.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/variable-pie.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/variwide.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/vector.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/windbarb.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/wordcloud.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
-/xrange.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugin[0Ks
-/annotations.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugin[0Ks
-/draggable-legend.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugin[0Ks
-/draggable-points.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugin[0Ks
-/export-csv.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugin[0Ks
-/grouped-categories.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugin[0Ks
-/highcharts-regression.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugin[0Ks
-/motion.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugin[0Ks
-/multicolor_series.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugin[0Ks
-/pattern-fill-v2.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugin[0Ks
-/tooltip-delay.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/stock/[0Kh
-ighstock.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/htmlwdgtgrid/htmlwdgtgr[0Ki
-d.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/jquery/jquery.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/proj4js/proj4.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/css/motion.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/custom/reset.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/custom/symbols-extra.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/custom/text-symbols.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/highcharts-3d.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/highcharts-more.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/highcharts.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/maps/modules/map.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/accessibility.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/annotations.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/boost-canvas.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/boost.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/broken-axis.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/bullet.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/data.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/drag-panes.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/drilldown.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/export-data.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/exporting.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/funnel.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/gantt.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/grid-axis.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/heatmap.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/histogram-bellcurve.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/item-series.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/no-data-to-display.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/offline-exporting.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/oldie.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/overlapping-datalabels.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/parallel-coordinates.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/pareto.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/sankey.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/series-label.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/solid-gauge.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/static-scale.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/stock.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/streamgraph.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/sunburst.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/treemap.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/variable-pie.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/variwide.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/vector.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/windbarb.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/wordcloud.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/modules/xrange.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/plugins/annotations.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/plugins/draggable-legend.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/plugins/draggable-points.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/plugins/export-csv.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/plugins/grouped-categories.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/plugins/highcharts-regression.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/plugins/motion.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/plugins/multicolor_series.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/plugins/pattern-fill-v2.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/plugins/tooltip-delay.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/highcharts-6.0.3/stock/highstock.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/htmlwdgtgrid-1/htmlwdgtgrid.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/htmlwidgets-1.2/htmlwidgets.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/jquery-1.11.1/jquery.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/jquery-1.12.4/jquery.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/jquery-1.12.4/jquery.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/jszip-1.10.16/jszip.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-0.7.7/images/1px.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-0.7.7/images/layers-2x.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-0.7.7/images/layers.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-0.7.7/images/marker-icon-2x.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-0.7.7/images/marker-icon.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-0.7.7/images/marker-shadow.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-0.7.7/leaflet-src.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-0.7.7/leaflet.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-0.7.7/leaflet.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap-theme.min.cs[0Ks
-[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/font-awesome.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/FontAwesome.otf[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webf[0Ko
-nt.eot[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webf[0Ko
-nt.svg[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webf[0Ko
-nt.ttf[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webf[0Ko
-nt.woff[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halfl[0Ki
-ngs-regular.eot[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halfl[0Ki
-ngs-regular.svg[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halfl[0Ki
-ngs-regular.ttf[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halfl[0Ki
-ngs-regular.woff[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.eot[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.svg[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.ttf[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.woff[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-matte.p[0Kn
-g[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-matte@2[0Kx
-.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-plain.p[0Kn
-g[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-shadow.[0Kp
-ng[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-shadow@[0K2
-x.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-soft.pn[0Kg
-[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-soft@2x[0K.
-png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/ionicons.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-marker[0Ks
-.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-marker[0Ks
-.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-marker[0Ks
-.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/leaflet.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/leaflet.yaml[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/images/deat[0Kh
-.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/leaflet.lab[0Ke
-l-src.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/leaflet.lab[0Ke
-l.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/leaflet.lab[0Ke
-l.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/jquery/jquery.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/jquery/jquery.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/ca[0Kn
-cel.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/ca[0Kn
-cel_@2X.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/ch[0Ke
-ck.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/ch[0Ke
-ck_@2X.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/fo[0Kc
-us.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/fo[0Kc
-us_@2X.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/ru[0Kl
-ers.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/ru[0Kl
-ers_@2X.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/st[0Ka
-rt.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/st[0Ka
-rt_@2X.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/tr[0Ka
-sh.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/tr[0Ka
-sh_@2X.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/leaflet-m[0Ke
-asure.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/leaflet-m[0Ke
-asure.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/leaflet-m[0Ke
-asure.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/index.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/leaflet-[0Ko
-mnivore.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/leaflet-[0Ko
-mnivore.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/package.[0Kj
-son[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/CONTRIB[0KU
-TING.md[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/README.[0Km
-d[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/bower.j[0Ks
-on[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/css/gh-[0Kf
-ork-ribbon.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/css/gh-[0Kf
-ork-ribbon.ie.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/leaflet[0K-
-providers.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/license[0K.
-md[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/package[0K.
-json[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/provide[0Kr
-s.json[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/1px.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/layers-2x.[0Kp
-ng[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/layers.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/marker-ico[0Kn
--2x.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/marker-ico[0Kn
-.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/marker-sha[0Kd
-ow.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet-src.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leafletfix/leafletfix.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Contr[0Ko
-l.MiniMap.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Contr[0Ko
-l.MiniMap.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Contr[0Ko
-l.MiniMap.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Contr[0Ko
-l.MiniMap.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Minim[0Ka
-p-binding.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/image[0Ks
-/toggle.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/image[0Ks
-/toggle.svg[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/Ea[0Ks
-yButton-binding.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/LI[0KC
-ENSE[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/ea[0Ks
-y-button.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/ea[0Ks
-y-button.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Graticule/Gra[0Kt
-icule-binding.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Graticule/L.G[0Kr
-aticule.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.SimpleGraticu[0Kl
-e/L.SimpleGraticule.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.SimpleGraticu[0Kl
-e/L.SimpleGraticule.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.SimpleGraticu[0Kl
-e/SimpleGraticule-binding.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Terminator/L.[0KT
-erminator.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Terminator/Te[0Kr
-minator-binding.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/bootstrap-theme.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/bootstrap.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/bootstrap.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/font-awesome.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/fonts/FontAwesome.otf[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/fonts/fontawesome-webfont.eot[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/fonts/fontawesome-webfont.svg[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/fonts/fontawesome-webfont.ttf[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/fonts/fontawesome-webfont.woff[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/fonts/glyphicons-halflings-regular.eot[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/fonts/glyphicons-halflings-regular.svg[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/fonts/glyphicons-halflings-regular.ttf[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/fonts/glyphicons-halflings-regular.woff[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/fonts/ionicons.eot[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/fonts/ionicons.svg[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/fonts/ionicons.ttf[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/fonts/ionicons.woff[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/images/markers-matte.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/images/markers-matte@2x.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/images/markers-plain.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/images/markers-shadow.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/images/markers-shadow@2x.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/images/markers-soft.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/images/markers-soft@2x.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/ionicons.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/leaflet.awesome-markers.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/leaflet.awesome-markers.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-marke[0Kr
-s/leaflet.awesome-markers.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster[0K/
-MIT-LICENCE.txt[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster[0K/
-MarkerCluster.Default.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster[0K/
-MarkerCluster.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster[0K/
-leaflet.markercluster-src.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster[0K/
-leaflet.markercluster.freezable-src.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster[0K/
-leaflet.markercluster.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster[0K/
-leaflet.markercluster.layersupport-src.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4-co[0Km
-pressed.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4lea[0Kf
-let.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilte[0Kr
-/img/filter-icon.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilte[0Kr
-/img/move-handle.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilte[0Kr
-/img/resize-handle.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilte[0Kr
-/locationfilter-bindings.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilte[0Kr
-/locationfilter.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilte[0Kr
-/locationfilter.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-providers-plu[0Kg
-in/leaflet-providers-plugin.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-easybutton-1.3.1/EasyButton-binding.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-easybutton-1.3.1/LICENSE[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-easybutton-1.3.1/easy-button.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-easybutton-1.3.1/easy-button.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-label-0.2.2/images/death.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-label-0.2.2/leaflet.label-src.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-label-0.2.2/leaflet.label.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-label-0.2.2/leaflet.label.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.js[0K
- create mode 10[0K[?25h0644 20192/Nal/Pre/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.css[0K[?25l
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-minimap-3.3.1/Minimap-binding.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-minimap-3.3.1/images/toggle.png[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-minimap-3.3.1/images/toggle.svg[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-providers-1.0.27/CONTRIBUTING.md[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-providers-1.0.27/README.md[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-providers-1.0.27/bower.json[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.ie.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-providers-1.0.27/leaflet-providers.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-providers-1.0.27/license.md[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-providers-1.0.27/package.json[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-providers-1.0.27/providers.json[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leaflet-providers-plugin-1.1.0/leaflet-providers-pl[0Ku
-gin.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/leafletfix-1.0.0/leafletfix.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/nouislider-7.0.10/jquery.nouislider.min.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/nouislider-7.0.10/jquery.nouislider.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/pdfmake-1.10.16/pdfmake.min.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/pdfmake-1.10.16/vfs_fonts.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/proj4js-2.3.15/proj4.js[0K
- create mode 100644 20192/Nal/Pre/libraryjs/selectize-0.12.0/selectize.bootstrap3.css[0K
- create mode 100644 20192/Nal/Pre/libraryjs/selectize-0.12.0/selectize.min.js[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y [0KA
-dmitidos/G_Admitidos[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-[0K[?25hCounting objects: 64, done.[0K[?25l
-Delta compression using up to 8 threads.[0K
-Compressing objects:  22% (14/61)[0K[1G[?25h[?25lCompressing objects:  37% (23/61)[0K[1G[?25h[?25lCompressing objects:  44% (27/61)[0K[1G[?25h[?25lCompressing objects:  65% (40/61)[0K[1G[?25h[?25lCompressing objects:  70% (43/61)[0K[1G[?25hCompressing objects: 100% (61/61), done.[0K[?25l
-Writing objects:  37% (24/64)[0K[1G[?25h[?25lWriting objects:  48% (31/64)[0K[1G[?25h[?25lWriting objects:  48% (31/64), 984.00 KiB | 867.00 KiB/s[0K[1G[?25h[?25lWriting objects:  51% (33/64), 984.00 KiB | 867.00 KiB/s[0K[1G[?25h[?25lWriting objects:  54% (35/64), 1.81 MiB | 1.07 MiB/s   s[0K[1G[?25h[?25lWriting objects:  57% (37/64), 4.07 MiB | 1.82 MiB/s   s[0K[1G[?25h[?25lWriting objects:  89% (57/64), 5.38 MiB | 1.97 MiB/s   s[0K[1G[?25hWriting objects: 100% (64/64), 6.37 MiB | 2.16 MiB/s, done.[0K[?25l
-Total 64 (delta 41), reused 0 (delta 0)[0K
-[0K[?25h[?25lremote: Resolving deltas:  58% (24/41)[0K[1G[?25h[?25lremote: Resolving deltas:  90% (37/41)[0K[1G[?25hremote: Resolving deltas: 100% (41/41), completed with 5 local objects.[0K[?25l
-[0K[?25hremote:[0K[?25l
-remote: GitHub found 3 vulnerabilities on estadisticaun/G_Admitidos's default branch (3 moderat[0Ke
-). To find out more, visit:[0K
-remote:      https://github.com/estadisticaun/G_Admitidos/network/alerts[0K
-remote:[0K
-To https://github.com/estadisticaun/G_Admitidos.git[0K
-   7800a64..e47efda  master -> master[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y [0KA
-dmitidos/G_Admitidos[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up-to-date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/1F01BB54[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y [0KA
-dmitidos/G_Admitidos[0;36m (master)[0m[0K
-$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
-]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos/G_Admitidos[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y [0KA
-dmitidos/G_Admitidos[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up-to-date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add/rm <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/1F01BB54[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-6148E593/2AA4B13D[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-6148E593/2AA4B13D-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-6148E593/lock_file[0m[0K
-        [0;31mmodified:   20192/Nal/Pre/A_sede.html[0m[0K
-        [0;31mmodified:   20192/Nal/Pre/S_sede.html[0m[0K
-        [0;31mmodified:   20192/Nal/Pre/Serie.html[0m[0K
-        [0;31mmodified:   20192/Nal/Pre/T_sede.html[0m[0K
-        [0;31mmodified:   20192/Nal/Pre/T_sexo.html[0m[0K
-        [0;31mdeleted:    20192/Nal/Pre/libraryjs/jquery-1.12.4/jquery.js[0m[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m.Rproj.user/B994EF53/sources/s-1CBA5E43/[0m[0K
-        [0;31m20192/Nal/Pre/libraryjs/jquery-1.12.4/LICENSE.txt[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y [0KA
-dmitidos/G_Admitidos[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-1CBA5E43/2AA4B13D.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-1CBA5E43/2AA4B13D-conten[0Kt
-s.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20192/Nal/Pre/libraryjs/jquery-1.12.4/LICENSE.txt.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y [0KA
-dmitidos/G_Admitidos[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hg[0Kr[0Ka[0Kd[0K[?25l$ git commit -m "gra[0K[?25hf[0Ki[0Kc[0Ko[0Ks[0K[27G[26G[?25l$ git commit -m "grafico[0K[?25h[?25l$ git commit -m "grafic[0K[?25h[?25l$ git commit -m "grafi[0K[?25h[?25l$ git commit -m "graf[0K[?25h[?25l$ git commit -m "gra[0K[?25h[?25l$ git commit -m "gr[0K[?25h[?25l$ git commit -m "g[0K[?25h[?25l$ git commit -m "[0K[?25ha[0Kc[0Kt[0Ku[0Ka[0Kl[0Ki[0Kz[0Ka[0Kr[0K[29G[?25l$ git commit -m "actualizar g[0K[?25hr[0Ká[0Kf[0Ki[0Kc[0Ko[0Ks[0K"[0K[?25l$ git commit -m "actualizar gráficos[0K[?25h[?25l$ git commit -m "actualizar gráfico[0K[?25h[?25l$ git commit -m "actualizar gráfic[0K[?25h[?25l$ git commit -m "actualizar gráfi[0K[?25h[?25l$ git commit -m "actualizar gráf[0K[?25h[?25l$ git commit -m "actualizar grá[0K[?25h[?25l$ git commit -m "actualizar gr[0K[?25h[?25l$ git commit -m "actualizar g[0K[?25h[?25l$ git commit -m "actualizar[0K[29G[?25h[?25l$ git commit -m "actualizar g[0K[?25hr[0Ka[0Kf[0Ki[0Kc[0Ko[0Ks[0K"[0K[?25l
-[0K[?25h[master 75af634] actualizar ggraficos[0K[?25l
- 12 files changed, 1090 insertions(+), 12056 deletions(-)[0K
- rewrite .Rproj.user/B994EF53/console06/1F01BB54 (82%)[0K
- rewrite .Rproj.user/B994EF53/console06/INDEX001 (88%)[0K
- rename .Rproj.user/B994EF53/sources/{s-6148E593 => s-1CBA5E43}/2AA4B13D (100%)[0K
- rename .Rproj.user/B994EF53/sources/{s-6148E593 => s-1CBA5E43}/2AA4B13D-contents (100%)[0K
- rename .Rproj.user/B994EF53/sources/{s-6148E593 => s-1CBA5E43}/lock_file (100%)[0K
- create mode 100644 20192/Nal/Pre/libraryjs/jquery-1.12.4/LICENSE.txt[0K
- delete mode 100644 20192/Nal/Pre/libraryjs/jquery-1.12.4/jquery.js[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y [0KA
-dmitidos/G_Admitidos[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-[0K[?25hUsername for 'https://github.com':[0K[36G[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-[0K[?25hCounting objects: 17, done.[0K[?25l
-Delta compression using up to 8 threads.[0K
-Compressing objects: 100% (14/14), done.[0K
-Writing objects:  29% (5/17)[0K[1G[?25hWriting objects: 100% (17/17), 6.90 KiB | 3.45 MiB/s, done.[0K[?25l
-Total 17 (delta 11), reused 0 (delta 0)[0K
-[0K[?25h[?25lremote: Resolving deltas:  45% (5/11)[0K[1G[?25hremote: Resolving deltas: 100% (11/11), completed with 11 local objects.[0K[?25l
-[0K[?25hremote:[0K[?25l
-remote: GitHub found 2 vulnerabilities on estadisticaun/G_Admitidos's default branch (2 moderat[0Ke
-). To find out more, visit:[0K
-remote:      https://github.com/estadisticaun/G_Admitidos/network/alerts[0K
-remote:[0K
-To https://github.com/estadisticaun/G_Admitidos.git[0K
-   e47efda..75af634  master -> master[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y [0KA
-dmitidos/G_Admitidos[0;36m (master)[0m[0K
-$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
-]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos/G_Admitidos[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y [0KA
-dmitidos/G_Admitidos[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up-to-date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add/rm <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/1F01BB54[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-1CBA5E43/2AA4B13D[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-1CBA5E43/2AA4B13D-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-1CBA5E43/lock_file[0m[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m.Rproj.user/B994EF53/sources/s-BB3CF9CF/[0m[0K
-        [0;31m20192/Nal/Pre/A_carreras.html[0m[0K
-        [0;31m20192/Nal/Pre/T_carreras.html[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y [0KA
-dmitidos/G_Admitidos[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-BB3CF9CF/2AA4B13D.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-BB3CF9CF/2AA4B13D-conten[0Kt
-s.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y [0KA
-dmitidos/G_Admitidos[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hio[0Kt[0K[8G[7G[?25l$ gio[0K[?25h[?25l$ gi[0K[?25ht[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kv[0K[?25lUsername for 'https://github.com': estadisti[0K[?25h[?25lUsername for 'https://github.com': estadist[0K[?25h[?25lUsername for 'https://github.com': estadis[0K[?25h[?25lUsername for 'https://github.com': estadi[0K[?25h[?25lUsername for 'https://github.com': estad[0K[?25h[?25lUsername for 'https://github.com': esta[0K[?25h[?25lUsername for 'https://github.com': est[0K[?25h[?25lUsername for 'https://github.com': es[0K[?25h[?25lUsername for 'https://github.com': e[0K[?25h[?25lUsername for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-remote: Invalid username or password.[0K
-fatal: Authentication failed for 'https://github.com/estadisticaun/G_Admitidos.git/'[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y [0KA
-dmitidos/G_Admitidos[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-[0K[?25herror: cannot spawn rpostback-askpass: No such file or directory[0K[?25l
-Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0K[?25lUsername for 'https://github.com': esta[0K[?25h[?25lUsername for 'https://github.com': est[0K[?25h[?25lUsername for 'https://github.com': es[0K[?25h[?25lUsername for 'https://github.com': e[0K[?25h[?25lUsername for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-[0K[?25hEverything up-to-date[0K[?25l
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y [0KA
-dmitidos/G_Admitidos[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up-to-date with 'origin/master'.[0K
-[0K
-Changes to be committed:[0K
-  (use "git reset HEAD <file>..." to unstage)[0K
-[0K
-        [0;32mmodified:   .Rproj.user/B994EF53/console06/1F01BB54[0m[0K
-        [0;32mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
-        [0;32mrenamed:    .Rproj.user/B994EF53/sources/s-1CBA5E43/2AA4B13D -> .Rproj.user/B994EF53/so[0Ku
-rces/s-BB3CF9CF/2AA4B13D[0m[0K
-        [0;32mrenamed:    .Rproj.user/B994EF53/sources/s-1CBA5E43/2AA4B13D-contents -> .Rproj.user/B9[0K9
-4EF53/sources/s-BB3CF9CF/2AA4B13D-contents[0m[0K
-        [0;32mrenamed:    .Rproj.user/B994EF53/sources/s-1CBA5E43/lock_file -> .Rproj.user/B994EF53/s[0Ko
-urces/s-BB3CF9CF/lock_file[0m[0K
-        [0;32mnew file:   20192/Nal/Pre/A_carreras.html[0m[0K
-        [0;32mnew file:   20192/Nal/Pre/T_carreras.html[0m[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/1F01BB54[0m[0K
-[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y [0KA
-dmitidos/G_Admitidos[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
-[0K[?25herror: cannot spawn rpostback-askpass: No such file or directory[0K[?25l
-Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-[0K[?25hEverything up-to-date[0K[?25l
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y [0KA
-dmitidos/G_Admitidos[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hT[0Kr[0Ke[0Ke[0K[?25l$ git commit -m "Tre[0K[?25h[?25l$ git commit -m "Tr[0K[?25h[?25l$ git commit -m "T[0K[?25h[?25l$ git commit -m "[0K[?25hT[0Kr[0Ke[0Ke[0Km[0Ka[0Kp[0K[26G[?25l$ git commit -m "Treemap c[0K[?25ha[0Kr[0Kr[0Ke[0Kr[0Ka[0Ks[0K[35G[34G[?25l$ git commit -m "Treemap carrera[0K[?25h[?25l$ git commit -m "Treemap carrer[0K[?25h[?25l$ git commit -m "Treemap carre[0K[?25h[?25l$ git commit -m "Treemap carr[0K[?25h[?25l$ git commit -m "Treemap car[0K[?25h[?25l$ git commit -m "Treemap ca[0K[?25h[?25l$ git commit -m "Treemap c[0K[?25h[?25l$ git commit -m "Treemap[0K[26G[?25h[?25l$ git commit -m "Treemap f[0K[?25ha[0Kc[0Ku[0Kl[0Kt[0Ka[0Kd[0Ke[0Ks[0K[37G[?25l$ git commit -m "Treemap facultades t[0K[?25h[?25l$ git commit -m "Treemap facultades[0K[37G[?25h[?25l$ git commit -m "Treemap facultades y[0K[?25h[39G[?25l$ git commit -m "Treemap facultades y c[0K[?25ha[0Kr[0Kr[0Ke[0Kr[0Ka[0Ks[0K"[0K[?25l
-[0K[?25h[master 71d6bdb] Treemap facultades y carreras[0K[?25l
- 7 files changed, 172 insertions(+), 82 deletions(-)[0K
- rewrite .Rproj.user/B994EF53/console06/INDEX001 (88%)[0K
- rename .Rproj.user/B994EF53/sources/{s-1CBA5E43 => s-BB3CF9CF}/2AA4B13D (100%)[0K
- rename .Rproj.user/B994EF53/sources/{s-1CBA5E43 => s-BB3CF9CF}/2AA4B13D-contents (100%)[0K
- rename .Rproj.user/B994EF53/sources/{s-1CBA5E43 => s-BB3CF9CF}/lock_file (100%)[0K
- create mode 100644 20192/Nal/Pre/A_carreras.html[0K
- create mode 100644 20192/Nal/Pre/T_carreras.html[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y [0KA
-dmitidos/G_Admitidos[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git commit -m "Treemap facultades y carreras"[0K[?25h[?25l$ git push origin master[0K[?25h[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-[0K[?25hCounting objects: 13, done.[0K[?25l
-Delta compression using up to 8 threads.[0K
-Compressing objects:  30% (3/10)[0K[1G[?25hCompressing objects: 100% (10/10), done.[0K[?25l
-Writing objects: 100% (13/13), 25.45 KiB | 4.24 MiB/s, done.[0K
-Total 13 (delta 5), reused 0 (delta 0)[0K
-[0K[?25hremote: Resolving deltas: 100% (5/5), completed with 5 local objects.[0K[?25l
-[0K[?25hremote:[0K[?25l
-remote: GitHub found 2 vulnerabilities on estadisticaun/G_Admitidos's default branch (2 moderat[0Ke
-). To find out more, visit:[0K
-remote:      https://github.com/estadisticaun/G_Admitidos/network/alerts[0K
-remote:[0K
-To https://github.com/estadisticaun/G_Admitidos.git[0K
-   75af634..71d6bdb  master -> master[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y [0KA
-dmitidos/G_Admitidos[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ku[0K[?25l$ git st[0K[?25ha[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up-to-date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/1F01BB54[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y [0KA
-dmitidos/G_Admitidos[0;36m (master)[0m[0K
-$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
-[0K[?25h]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos/G_Admitidos[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y [0KA
-dmitidos/G_Admitidos[0;36m (master)[0m[0K
-[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up-to-date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add/rm <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/1F01BB54[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-BB3CF9CF/2AA4B13D[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-BB3CF9CF/2AA4B13D-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-BB3CF9CF/lock_file[0m[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m.Rproj.user/B994EF53/sources/s-E3ADEDCF/[0m[0K
-        [0;31m20201/[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos[0K/
-G_Admitidos[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-E3ADEDCF/2AA4B13D.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-E3ADEDCF/2AA4B13D-contents.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/Proj4Leaflet-0.7.2/proj4-compressed.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/Proj4Leaflet-0.7.2/proj4.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/bootstrap-3.3.7/bootstrap-theme.min.css.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/bootstrap-3.3.7/bootstrap.min.css.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/bootstrap-3.3.7/bootstrap.min.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/bootstrap-3.3.7/font-awesome.min.css.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfon[0Kt[?25l
-.svg.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflin[0Kg[?25l
-s-regular.svg.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/bootstrap-3.3.7/fonts/ionicons.svg.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/bootstrap-3.3.7/ionicons.min.css.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.[0Kc[?25l
-ss.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.[0Kj[?25l
-s.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.[0Km[?25l
-in.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/crosstalk-1.0.0/css/crosstalk.css.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/crosstalk-1.0.0/js/crosstalk.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/crosstalk-1.0.0/js/crosstalk.js.map.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/crosstalk-1.0.0/js/crosstalk.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/css/datatables-cr[0Ko[?25l
-sstalk.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/datatables.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/datatables.yaml.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/AutoFill/css/autoFill.bootstrap.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/AutoFill/css/autoFill.bootstrap4.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/AutoFill/css/autoFill.dataTables.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/AutoFill/css/autoFill.foundation.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/AutoFill/css/autoFill.jqueryui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/AutoFill/css/autoFill.semanticui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/AutoFill/js/autoFill.bootstrap.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/AutoFill/js/autoFill.bootstrap4.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/AutoFill/js/autoFill.foundation.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/AutoFill/js/autoFill.jqueryui.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/AutoFill/js/autoFill.semanticui.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/AutoFill/js/dataTables.autoFill.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Buttons/css/buttons.bootstrap.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Buttons/css/buttons.bootstrap4.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Buttons/css/buttons.dataTables.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Buttons/css/buttons.foundation.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Buttons/css/buttons.jqueryui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Buttons/css/buttons.semanticui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Buttons/js/buttons.bootstrap.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Buttons/js/buttons.bootstrap4.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Buttons/js/buttons.colVis.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Buttons/js/buttons.flash.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Buttons/js/buttons.foundation.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Buttons/js/buttons.html5.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Buttons/js/buttons.jqueryui.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Buttons/js/buttons.print.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Buttons/js/buttons.semanticui.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Buttons/js/dataTables.buttons.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Buttons/js/jszip.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Buttons/js/pdfmake.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/ColReorder/css/colReorder.bootstrap.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/ColReorder/css/colReorder.bootstrap4.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/ColReorder/css/colReorder.dataTables.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/ColReorder/css/colReorder.foundation.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/ColReorder/css/colReorder.jqueryui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/ColReorder/css/colReorder.semanticui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/ColReorder/js/dataTables.colReorder.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/FixedColumns/css/fixedColumns.bootstrap.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedColumns/css/fixedColumns.bootstrap4.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedColumns/css/fixedColumns.dataTables.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedColumns/css/fixedColumns.foundation.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedColumns/css/fixedColumns.jqueryui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedColumns/css/fixedColumns.semanticui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedColumns/js/dataTables.fixedColumns.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/FixedHeader/css/fixedHeader.bootstrap.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedHeader/css/fixedHeader.bootstrap4.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedHeader/css/fixedHeader.dataTables.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/FixedHeader/css/fixedHeader.foundation.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedHeader/css/fixedHeader.jqueryui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedHeader/css/fixedHeader.semanticui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedHeader/js/dataTables.fixedHeader.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/KeyTable/css/keyTable.bootstrap.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/KeyTable/css/keyTable.bootstrap4.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/KeyTable/css/keyTable.dataTables.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/KeyTable/css/keyTable.foundation.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/KeyTable/css/keyTable.jqueryui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/KeyTable/css/keyTable.semanticui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/KeyTable/js/dataTables.keyTable.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Responsive/css/responsive.bootstrap.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Responsive/css/responsive.bootstrap4.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Responsive/css/responsive.dataTables.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Responsive/css/responsive.foundation.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Responsive/css/responsive.jqueryui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Responsive/css/responsive.semanticui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Responsive/js/dataTables.responsive.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Responsive/js/responsive.bootstrap.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Responsive/js/responsive.bootstrap4.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Responsive/js/responsive.foundation.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Responsive/js/responsive.jqueryui.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Responsive/js/responsive.semanticui.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/RowGroup/css/rowGroup.bootstrap.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowGroup/css/rowGroup.bootstrap4.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowGroup/css/rowGroup.dataTables.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowGroup/css/rowGroup.foundation.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowGroup/css/rowGroup.jqueryui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowGroup/css/rowGroup.semanticui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowGroup/js/dataTables.rowGroup.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowReorder/css/rowReorder.bootstrap.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/RowReorder/css/rowReorder.bootstrap4.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowReorder/css/rowReorder.dataTables.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowReorder/css/rowReorder.foundation.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowReorder/css/rowReorder.jqueryui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowReorder/css/rowReorder.semanticui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Scroller/css/scroller.bootstrap.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Scroller/css/scroller.bootstrap4.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Scroller/css/scroller.dataTables.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Scroller/css/scroller.foundation.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Scroller/css/scroller.jqueryui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Scroller/css/scroller.semanticui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Scroller/js/dataTables.scroller.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Select/css/select.bootstrap.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Select/css/select.bootstrap4.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Select/css/select.dataTables.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Select/css/select.foundation.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Select/css/select.jqueryui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Select/css/select.semanticui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Select/js/dataTables.select.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-pl[0Ku[?25l
-gins/natural/natural.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-pl[0Ku[?25l
-gins/searchHighlight/dataTables.searchHighlight.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-pl[0Ku
-gins/searchHighlight/dataTables.searchHighlight.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-pl[0Ku[?25l
-gins/searchHighlight/jquery.highlight.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks[?25l
-/dataTables.bootstrap.extra.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks[?25l
-/dataTables.bootstrap.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks[?25l
-/dataTables.bootstrap4.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks[?25l
-/dataTables.foundation.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks[?25l
-/dataTables.jqueryui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks
-/dataTables.material.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks[?25l
-/dataTables.semanticui.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks
-/dataTables.uikit.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks[?25l
-/jquery.dataTables.extra.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks
-/jquery.dataTables.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/
-dataTables.bootstrap.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/[?25l
-dataTables.bootstrap4.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/
-dataTables.foundation.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/
-dataTables.jqueryui.min.js.[0K
-The file wi[0K[?25hll have its original line endings in your working directory.[0K[?25l
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/
-dataTables.material.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/[?25l
-dataTables.semanticui.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/[?25l
-dataTables.uikit.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/[?25l
-jquery.dataTables.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/li[0Kc[?25l
-ense.txt.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/jquery/LICENS[0KE
-.txt.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/jquery/jquery[0K.[?25l
-min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/nouislider/jq[0Ku[?25l
-ery.nouislider.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/nouislider/jq[0Ku[?25l
-ery.nouislider.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/selectize/sel[0Ke[?25l
-ctize.bootstrap3.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/selectize/sel[0Ke[?25l
-ctize.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/datatables-css-0.0.0/datatables-crosstal[0Kk
-.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/dt-core-1.10.16/css/jquery.dataTables.ex[0Kt
-ra.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/dt-core-1.10.16/css/jquery.dataTables.mi[0Kn
-.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/dt-core-1.10.16/js/jquery.dataTables.min[0K.
-js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/dt-ext-buttons-1.10.16/css/buttons.dataT[0Ka
-bles.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/dt-ext-buttons-1.10.16/js/buttons.colVis[0K.
-min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/dt-ext-buttons-1.10.16/js/buttons.flash.[0Km
-in.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/dt-ext-buttons-1.10.16/js/buttons.html5.[0Km
-in.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/dt-ext-buttons-1.10.16/js/buttons.print.[0Km
-in.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/dt-ext-buttons-1.10.16/js/dataTables.but[0Kt
-ons.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/dt-ext-keytable-1.10.16/css/keyTable.dat[0Ka
-Tables.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/dt-ext-keytable-1.10.16/js/dataTables.ke[0Ky
-Table.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/dt-ext-responsive-1.10.16/css/responsive[0K.
-dataTables.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/dt-ext-responsive-1.10.16/js/dataTables.[0Kr
-esponsive.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTa[0Kb
-les.searchHighlight.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTa[0Kb
-les.searchHighlight.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/dt-plugin-searchhighlight-1.10.16/jquery[0K.
-highlight.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/highchartct.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/highchartct.yaml[0K.
-[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/highchartzero.js[0K.
-[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/highchartzero.ya[0Km
-l.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/css/motion.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/custom/reset.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/custom/symbols-extra.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/custom/text-symbols.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/highcharts-3d.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/highcharts-more.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/highcharts.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/maps/modules/map.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/accessibility.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/annotations.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/boost-canvas.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/boost.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/broken-axis.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/bullet.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/data.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/drag-panes.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/drilldown.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/export-data.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/exporting.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/funnel.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/gantt.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/grid-axis.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/heatmap.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/histogram-bellcurve.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/item-series.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/no-data-to-display.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/offline-exporting.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/oldie.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/overlapping-datalabels.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/parallel-coordinates.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/pareto.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/sankey.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/series-label.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/solid-gauge.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/static-scale.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/stock.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/streamgraph.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/sunburst.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/treemap.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/variable-pie.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/variwide.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/vector.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/windbarb.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/wordcloud.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/xrange.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/stock/highstock.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highchart-binding-0.6.0/lib/proj4js/proj[0K4[?25l
-.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/css/motion.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/custom/reset.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/custom/symbols-extra.js[0K.
-[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/custom/text-symbols.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/highcharts-3d.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/highcharts-more.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/highcharts.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/maps/modules/map.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/accessibility.j[0Ks
-.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/annotations.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/boost-canvas.js[0K.
-[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/boost.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/broken-axis.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/bullet.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/data.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/drag-panes.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/drilldown.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/export-data.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/exporting.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/funnel.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/gantt.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/grid-axis.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/heatmap.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/histogram-bellc[0Ku
-rve.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/item-series.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/no-data-to-disp[0Kl
-ay.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/offline-exporti[0Kn
-g.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/oldie.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/overlapping-dat[0Ka
-labels.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/parallel-coordi[0Kn
-ates.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/pareto.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/sankey.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/series-label.js[0K.
-[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/solid-gauge.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/static-scale.js[0K.
-[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/stock.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/streamgraph.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/sunburst.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/treemap.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/variable-pie.js[0K.
-[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/variwide.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/vector.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/windbarb.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/wordcloud.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/modules/xrange.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/highcharts-6.0.3/stock/highstock.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/htmlwidgets-1.2/htmlwidgets.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/htmlwidgets-1.3/htmlwidgets.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/jquery-1.12.4/jquery.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/jquery-1.12.4/jquery.min.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/jszip-1.10.16/jszip.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-0.7.7/leaflet-src.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-0.7.7/leaflet.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap-t[0Kh[?25l
-eme.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.m[0Ki
-n.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.m[0Ki
-n.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/font-awesom[0Ke
-.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fonta[0Kw
-esome-webfont.svg.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyph[0Ki
-cons-halflings-regular.svg.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionic[0Ko[?25l
-ns.svg.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/ionicons.mi[0Kn
-.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awe[0Ks
-ome-markers.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awe[0Ks
-ome-markers.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awe[0Ks
-ome-markers.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/leaflet.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/leaflet.yaml.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/[0Kl[?25l
-eaflet.label-src.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/[0Kl
-eaflet.label.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/[0Kl[?25l
-eaflet.label.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/jquery/jquery.[0Kj[?25l
-s.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/jquery/jquery.[0Km
-in.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measur[0Ke[?25l
-/leaflet-measure.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measur[0Ke[?25l
-/leaflet-measure.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measur[0Ke[?25l
-/leaflet-measure.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivo[0Kr
-e/index.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivo[0Kr[?25l
-e/leaflet-omnivore.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivo[0Kr[?25l
-e/leaflet-omnivore.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivo[0Kr
-e/package.json.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provid[0Ke[?25l
-rs/CONTRIBUTING.md.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provid[0Ke
-rs/README.md.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provid[0Ke[?25l
-rs/bower.json.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provid[0Ke[?25l
-rs/leaflet-providers.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provid[0Ke[?25l
-rs/license.md.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provid[0Ke[?25l
-rs/package.json.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provid[0Ke[?25l
-rs/providers.json.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leafle[0Kt[?25l
--src.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leafle[0Kt
-.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/lib/leafletfix/lea[0Kf
-letfix.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Mi[0Kn
-iMap/Control.MiniMap.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Mi[0Kn
-iMap/Control.MiniMap.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Mi[0Kn[?25l
-iMap/Minimap-binding.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Ea[0Ks[?25l
-yButton/EasyButton-binding.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Ea[0Ks
-yButton/LICENSE.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Ea[0Ks[?25l
-yButton/easy-button.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Ea[0Ks
-yButton/easy-button.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Gr[0Ka[?25l
-ticule/Graticule-binding.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Gr[0Ka
-ticule/L.Graticule.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Si[0Km[?25l
-pleGraticule/L.SimpleGraticule.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Si[0Km
-pleGraticule/L.SimpleGraticule.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Si[0Km
-pleGraticule/SimpleGraticule-binding.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Te[0Kr
-minator/L.Terminator.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Te[0Kr
-minator/Terminator-binding.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20[0K[?25h201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke[?25l
-some-markers/bootstrap-theme.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
-some-markers/bootstrap.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
-some-markers/bootstrap.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
-some-markers/font-awesome.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
-some-markers/fonts/fontawesome-webfont.svg.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
-some-markers/fonts/glyphicons-halflings-regular.svg.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
-some-markers/fonts/ionicons.svg.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke[?25l
-some-markers/ionicons.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
-some-markers/leaflet.awesome-markers.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
-some-markers/leaflet.awesome-markers.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
-some-markers/leaflet.awesome-markers.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.ma[0Kr
-kercluster/MIT-LICENCE.txt.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.ma[0Kr
-kercluster/MarkerCluster.Default.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.ma[0Kr
-kercluster/MarkerCluster.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.ma[0Kr
-kercluster/leaflet.markercluster-src.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.ma[0Kr
-kercluster/leaflet.markercluster.freezable-src.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.ma[0Kr[?25l
-kercluster/leaflet.markercluster.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.ma[0Kr
-kercluster/leaflet.markercluster.layersupport-src.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leafl[0Ke[?25l
-t/proj4-compressed.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leafl[0Ke
-t/proj4.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-lo[0Kc[?25l
-ationfilter/locationfilter-bindings.js.[0K
 The file will have its original line endings in your working directory.[0K
 warning: LF will be replaced by CRLF in 20201/Nal/Pre/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-lo[0Kc
 ationfilter/locationfilter.css.[0K
@@ -2890,4 +907,99 @@ To https://github.com/estadisticaun/G_Admitidos.git[0K
 [0K[?25h[?25l
 [0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos[0K/
 G_Admitidos[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0m[0K[?25h[0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos[0K/[?25l
+G_Admitidos[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes to be committed:[0K
+  (use "git reset HEAD <file>..." to unstage)[0K
+[0K
+        [0;32mmodified:   .Rproj.user/B994EF53/console06/1F01BB54[0m[0K
+        [0;32mdeleted:    20201/Nal/Pre/A_modalidad.html[0m[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/1F01BB54[0m[0K
+[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos[0K/
+G_Admitidos[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push -[0K[?25hm[0K[15G[?25l$ git push -m "[0K[?25hA[0Kj[0K[?25l$ git push -m "A[0K[?25h[?25l$ git push -m "[0K[?25h[?25l$ git push -m[0K[15G[?25h[?25l$ git push -m "[0K[?25hE[0Kl[0Ki[0Km[0Ki[0Kn[0Ka[0Kr[0K[25G[?25l$ git push -m "Eliminar o[0K[?25hb[0Kj[0Ke[0Kt[0Ko[0K[32G[?25l$ git push -m "Eliminar objeto A[0K[?25h_[0Km[0Ko[0Kd[0Ka[0Kl[0Ki[0Kd[0Ka[0Kd[0K"[0K[?25l
+[0K[?25herror: unknown switch `m'[0K[?25l
+usage: git push [<options>] [<repository> [<refspec>...]][0K
+[0K
+    -v, --verbose         be more verbose[0K
+    -q, --quiet           be more quiet[0K
+    --repo <repository>   repository[0K
+    --all                 push all refs[0K
+    --mirror              mirror all refs[0K
+    -d, --delete          delete refs[0K
+    --tags                push tags (can't be used with --all or --mirror)[0K
+    -n, --dry-run         dry run[0K
+    --porcelain           machine-readable output[0K
+    -f, --force           force updates[0K
+    --force-with-lease[=<refname>:<expect>][0K
+                          require old value of ref to be at this value[0K
+    --recurse-submodules[=<check|on-demand|no>][0K
+                          control recursive pushing of submodules[0K
+    --thin                use thin pack[0K
+    --receive-pack <receive-pack>[0K
+                          receive pack program[0K
+    --exec <receive-pack>[0K
+                          receive pack program[0K
+    -u, --set-upstream    set upstream for git pull/status[0K
+    --progress            force progress reporting[0K
+    --prune               prune locally removed refs[0K
+    --no-verify           bypass pre-push hook[0K
+    --follow-tags         push missing but relevant tags[0K
+    --signed[=<yes|no|if-asked>][0K
+                          GPG sign the push[0K
+    --atomic              request atomic transaction on remote side[0K
+    -o, --push-option <server-specific>[0K
+                          option to transmit[0K
+    -4, --ipv4            use IPv4 addresses only[0K
+    -6, --ipv6            use IPv6 addresses only[0K
+[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos[0K/
+G_Admitidos[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push -m "Eliminar objeto A_modalidad"[0K[?25h[?25l$ git push -m "Eliminar objeto A_modalidad[0K[?25h[?25l$ git push -m "Eliminar objeto A_modalida[0K[?25h[?25l$ git push -m "Eliminar objeto A_modalid[0K[?25h[?25l$ git push -m "Eliminar objeto A_modali[0K[?25h[?25l$ git push -m "Eliminar objeto A_modal[0K[?25h[?25l$ git push -m "Eliminar objeto A_moda[0K[?25h[?25l$ git push -m "Eliminar objeto A_mod[0K[?25h[?25l$ git push -m "Eliminar objeto A_mo[0K[?25h[?25l$ git push -m "Eliminar objeto A_m[0K[?25h[?25l$ git push -m "Eliminar objeto A_[0K[?25h[33G[?25l$ git push -m "Eliminar objeto A[0K[?25h[?25l$ git push -m "Eliminar objeto[0K[32G[?25h[31G[?25l$ git push -m "Eliminar objet[0K[?25h[?25l$ git push -m "Eliminar obje[0K[?25h[?25l$ git push -m "Eliminar obj[0K[?25h[?25l$ git push -m "Eliminar ob[0K[?25h[?25l$ git push -m "Eliminar o[0K[?25h[?25l$ git push -m "Eliminar[0K[25G[?25h[24G[?25l$ git push -m "Elimina[0K[?25h[?25l$ git push -m "Elimin[0K[?25h[?25l$ git push -m "Elimi[0K[?25h[?25l$ git push -m "Elim[0K[?25h[?25l$ git push -m "Eli[0K[?25h[?25l$ git push -m "El[0K[?25h[?25l$ git push -m "E[0K[?25h[?25l$ git push -m "[0K[?25h[?25l$ git push -m[0K[15G[?25h[14G[?25l$ git push -[0K[?25h[?25l$ git push[0K[12G[?25h[11G[?25l$ git pus[0K[?25h[?25l$ git pu[0K[?25h[?25l$ git p[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hE[0Kl[0Ki[0Km[0Ki[0Kn[0Ka[0Kr[0K[27G[?25l$ git commit -m "Eliminar A[0K[?25h_[0Km[0Ko[0Kd[0Ka[0Kl[0Ki[0Kd[0Ka[0Kd[0K"[0K[?25l
+[0K[?25h[master f29c8d3] Eliminar A_modalidad[0K[?25l
+ 2 files changed, 1864 insertions(+), 52 deletions(-)[0K
+ delete mode 100644 20201/Nal/Pre/A_modalidad.html[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos[0K/
+G_Admitidos[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
+[0K[?25herror: cannot spawn rpostback-askpass: No such file or directory[0K[?25l
+Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+[0K[?25hCounting objects: 9, done.[0K[?25l
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (7/7), done.[0K
+Writing objects: 100% (9/9), 15.48 KiB | 3.87 MiB/s, done.[0K
+Total 9 (delta 3), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (3/3), completed with 3 local objects.[0K[?25l
+[0K[?25hremote:[0K[?25l
+remote: GitHub found 2 vulnerabilities on estadisticaun/G_Admitidos's default branch (2 moderate). To fi[0Kn
+d out more, visit:[0K
+remote:      https://github.com/estadisticaun/G_Admitidos/network/alerts[0K
+remote:[0K
+To https://github.com/estadisticaun/G_Admitidos.git[0K
+   d96d59f..f29c8d3  master -> master[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos[0K/
+G_Admitidos[0;36m (master)[0m[0K
+$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
+[0K[?25h]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos/G_Admitidos[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos[0K/
+G_Admitidos[0;36m (master)[0m[0K
+[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h
