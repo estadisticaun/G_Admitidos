@@ -1,88 +1,4 @@
 
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroller/cs[0Ks
-/scroller.bootstrap.min.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroller/cs[0Ks
-/scroller.bootstrap4.min.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroller/cs[0Ks
-/scroller.dataTables.min.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroller/cs[0Ks
-/scroller.foundation.min.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroller/cs[0Ks
-/scroller.jqueryui.min.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroller/cs[0Ks
-/scroller.semanticui.min.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroller/js[0K/
-dataTables.scroller.min.js[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select/css/[0Ks
-elect.bootstrap.min.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select/css/[0Ks
-elect.bootstrap4.min.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select/css/[0Ks
-elect.dataTables.min.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select/css/[0Ks
-elect.foundation.min.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select/css/[0Ks
-elect.jqueryui.min.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select/css/[0Ks
-elect.semanticui.min.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select/js/d[0Ka
-taTables.select.min.js[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-plugins/natural/natura[0Kl
-.js[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searchHighligh[0Kt
-/dataTables.searchHighlight.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searchHighligh[0Kt
-/dataTables.searchHighlight.min.js[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searchHighligh[0Kt
-/jquery.highlight.js[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.bootstr[0Ka
-p.extra.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.bootstr[0Ka
-p.min.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.bootstr[0Ka
-p4.min.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.foundat[0Ki
-on.min.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.jqueryu[0Ki
-.min.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.materia[0Kl
-.min.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.semanti[0Kc
-ui.min.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.uikit.m[0Ki
-n.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/css/jquery.dataTables.[0Ke
-xtra.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/css/jquery.dataTables.[0Km
-in.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.bootstra[0Kp
-.min.js[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.bootstra[0Kp
-4.min.js[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.foundati[0Ko
-n.min.js[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.jqueryui[0K.
-min.js[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.material[0K.
-min.js[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.semantic[0Ku
-i.min.js[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.uikit.mi[0Kn
-.js[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/js/jquery.dataTables.m[0Ki
-n.js[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/datatables/license.txt[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/jquery/LICENSE.txt[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/jquery/jquery.min.js[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/nouislider/jquery.nouislider.min.[0Kc
-ss[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/nouislider/jquery.nouislider.min.[0Kj
-s[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/selectize/selectize.bootstrap3.cs[0Ks
-[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-binding-0.4/lib/selectize/selectize.min.js[0K
- create mode 100644 20201/Nal/Pre/libraryjs/datatables-css-0.0.0/datatables-crosstalk.css[0K
- create mode 100644 20201/Nal/Pre/libraryjs/dt-core-1.10.16/css/jquery.dataTables.extra.css[0K
  create mode 100644 20201/Nal/Pre/libraryjs/dt-core-1.10.16/css/jquery.dataTables.min.css[0K
  create mode 100644 20201/Nal/Pre/libraryjs/dt-core-1.10.16/js/jquery.dataTables.min.js[0K
  create mode 100644 20201/Nal/Pre/libraryjs/dt-ext-buttons-1.10.16/css/buttons.dataTables.min.css[0K
@@ -1022,6 +938,89 @@ Untracked files:[0K
   (use "git add <file>..." to include in what will be committed)[0K
 [0K
         [0;31m.Rproj.user/B994EF53/sources/s-41FF5DF1/[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos[0K/
+G_Admitidos[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-41FF5DF1/2AA4B13D.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-41FF5DF1/2AA4B13D-contents.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos[0K/
+G_Admitidos[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hS[0Ke[0K[21G[?25l$ git commit -m "Se e[0K[?25hl[0Ki[0Km[0Ki[0Kn[0Ka[0K[29G[?25l$ git commit -m "Se elimina A[0K[?25h_[0Km[0Ko[0Kd[0Ka[0Kl[0Ki[0Kd[0Ka[0Kd[0K"[0K[?25l
+[0K[?25h[master 25fd7ee] Se elimina A_modalidad[0K[?25l
+ 6 files changed, 369 insertions(+), 396 deletions(-)[0K
+ rewrite .Rproj.user/B994EF53/console06/INDEX001 (88%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-CFDFDD3C => s-41FF5DF1}/2AA4B13D (100%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-CFDFDD3C => s-41FF5DF1}/2AA4B13D-contents (100%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-CFDFDD3C => s-41FF5DF1}/lock_file (100%)[0K
+ delete mode 100644 20201/Nal/Pre/A_modalidad.html[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos[0K/
+G_Admitidos[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
+[0K[?25herror: cannot spawn rpostback-askpass: No such file or directory[0K[?25l
+Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+[0K[?25hCounting objects: 11, done.[0K[?25l
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (8/8), done.[0K
+Writing objects: 100% (11/11), 2.47 KiB | 1.24 MiB/s, done.[0K
+Total 11 (delta 5), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:  40% (2/5)[0K[1G[?25hremote: Resolving deltas: 100% (5/5), completed with 5 local objects.[0K[?25l
+[0K[?25hremote:[0K[?25l
+remote: GitHub found 2 vulnerabilities on estadisticaun/G_Admitidos's default branch (2 moderate). To fi[0Kn
+d out more, visit:[0K
+remote:      https://github.com/estadisticaun/G_Admitidos/network/alerts[0K
+remote:[0K
+To https://github.com/estadisticaun/G_Admitidos.git[0K
+   0ed7853..25fd7ee  master -> master[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos[0K/
+G_Admitidos[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/1F01BB54[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos[0K/
+G_Admitidos[0;36m (master)[0m[0K
+$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
+[0K[?25h]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos/G_Admitidos[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos[0K/
+G_Admitidos[0;36m (master)[0m[0K
+[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add/rm <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/1F01BB54[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-41FF5DF1/2AA4B13D[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-41FF5DF1/2AA4B13D-contents[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-41FF5DF1/lock_file[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.Rproj.user/B994EF53/sources/s-AF2CF224/[0m[0K
+        [0;31m20201/Nal/Pre/A_Modalidad.html[0m[0K
 [0K
 no changes added to commit (use "git add" and/or "git commit -a")[0K
 [0K[?25h[?25l
